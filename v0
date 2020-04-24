@@ -1,0 +1,15 @@
+# Hello User
+
+string_hello = "Hello! Welcome to my Chatbot!"
+
+print(string_hello)
+
+# Repeating Bot
+
+string_repeat = "I will repeat your text."
+
+print(string_repeat)
+
+echo = input("Please enter a text for me to repeat.")
+
+print("You said:", echo)
